@@ -1,0 +1,10 @@
+{% for language in site.data.languages %}
+	{% include_relative _includes/template/nav-build-link.html base-name=name-base language = language.key %}
+	{% if language.key != page-language %}
+	<li>
+		<a class="nav-language" href="{{ link }}.html">
+			<img src="images/languages/{{ language.icon }}" alt="{{ language.text }}" />
+		</a>
+	</li>
+	{% endif %} 
+{% endfor %}

@@ -1,0 +1,13 @@
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" 
+            data-toggle="collapse" 
+            data-target="#navbar-collapse" 
+            aria-expanded="false">
+        <img src="images/navbar-toggle.png">
+    </button>
+    {% include_relative _includes/template/nav-build-link.html base-name="index" language=page-language %}
+    <div class="{%if name-base == "index"%}chiara-active-brand{%endif%}"> 
+        <a href="{{link}}.html"><img src="images/brand.png" /></a>
+    </div>
+</div>

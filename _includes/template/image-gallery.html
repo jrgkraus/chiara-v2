@@ -1,0 +1,12 @@
+{% if site.data.image-galleries.[name-base] %}
+{% assign gallery = site.data.image-galleries.[name-base] %}
+{% assign dir = name-base %}
+{%for file in gallery.files %}
+<a class="template-image-link" 
+   href="images/{{dir}}/{{file.name}}.jpg" 
+   data-lightbox="template-set" 
+   data-title="{{ site.data.locales.galleryclick.[page-language] }}">
+    <img class="template-image img-thumbnail" src="images/{{dir}}/thumbs/{{file.name}}.jpg" alt=""/>
+</a>
+{%endfor%}
+{% endif %}

@@ -1,0 +1,788 @@
+# Questo file contiene tutti i testi plurilinguali. Vengono addressati
+# nei file _includes/page-xxxx.html con la chiave. Secondo la lingua
+# scelta viene preso il testo sotto la chiave della lingua
+2015-03-01-intervista-1:
+    it: "Intervista Carlo Tedeschi (parte 1)"
+2015-03-01-intervista-2:
+    it: "Intervista Carlo Tedeschi (parte 2)"
+2015-08-22-melissa-mattiussi:
+    it: Melissa Mattiussi
+2015-08-mess-sant-antonio:
+    it: "Messaggero di Sant'Antonio"
+at_assisi:
+    it: Per rappresentazioni ad Assisi
+    en: For presentations at Assisi
+    de: Für Aufführungen in Assisi
+andrea:
+    de: "Andrea Tosi"
+    it: "Andrea Tosi"
+    en: "Andrea Tosi"
+andrea-par1:
+    it: |
+        
+        Compositore ed arrangiatore ha cominciato la sua esperienza professionale con i musicals di Carlo Tedeschi, a fianco del compositore Stefano Natale.
+        
+        In seguito ha lavorato al Teatro Sistina come assistente musicale dei M° Gianni Ferrio, Armando Trovaioli e Claudio Mattone in spettacoli quali: “Aggiungi un posto a tavola” , “Rugantino” , “Un paio d’ali” , “Alleluja, brava gente”
+        
+        Compone colonne sonore cinematografiche e sigle di programmi RAI. Insieme a Stefano Natale vince il 1° premio come migliore colonna sonora del “Festival Mondiale Cinema Subacqueo” d’Antibes 1990.
+        
+        Consulenza e ricerca musicale per lo spot pubblicitario “Illy Caffè”, regia di Francis Ford Coppola.
+        
+        Assistente musicale nella registrazione del CD live “On such a night” di Sting.
+    en: |
+        
+        Composer and arranger, Andrea begun his professional experience with Carlo Tedeschi musicals, shadowing Stefano Natale.
+        
+        He has, since then, continued his collaboration with them. His last works included “Clare of God” and “A Flutter of Wings”. He worked at the Sistina theatre in Rome with Garinei and Giovannini (two top art directors) as musical assistant of maestros: G. Ferrio, A. Trovajoli and C. Mattone in the following musicals: “Alleluia Brava Gente”, “Rugantino”, “Un paio d’ali”, “Aggiungi un posto a tavola” and “Scugnizzi”.
+        
+        Together with Stefano Natale, won the first prize as Best Soundtrack of a Documentary-Film: “Angela degli Abissi” at the Underwater World Film Festival in 1990 in Antibes.
+        
+        He worked as musical consultant to an advertising spot of a famous coffee producer (Illy) under the direction of Francis Ford Coppola and as musical assistant in the live CD recording of Sting “On such a night”.
+    de: |
+        Komponist, Arrangeur und Dirigent. Er beginnt seine Tätigkeit als Komponist,  Arrangeur und Dirigent im Jahr 1985 und arbeitet mit bei der Realisierung vieler Musicals, Fernsehprogramme, Kinofilme und Schallplattenprojekte. Während seiner Karriere arbeitet er mit vielen Autoren, Regisseuren und italienischen Künstlern zusammen, als da sind: Carlo Tedeschi, Pietro Garinei, Armando Trovajoli, Nicola Piovani, Riz Ortolani, Claudio Mattone, Enrico Montesano, Rodolfo Laganà ed Enrico Brignano. Zusammen mit dem Komponisten Stefano Natale gewinnt er 1990  den Preis für die die beste Filmmusik für den Dokumentarfilm "Angela degli abissi" beim weltweiten Unterwasserkinofestival von Antibes. 1999  arbeitet er als musikalischer Berater mit Francis Ford Coppola am Werbespot für Illy Caffè, zusammen. 2001 ist er musikalischer Assistent bei der live-Aufnahme von Stings CD "On such a night". Er komponiert Filmmusik für Kino, Fernsehen und Theater und realisiert verschiedene Musicals als Komponist und Arrangeur, darunter "Chiara di Dio" von Carlo Tedeschi, das seit mehr als 10 Jahren regelmäßig in Assisi aufgeführt wird. In der Saison 2014-2015 ist er Komponist und Arrangeur dreier Theaterstücke: Evolushow von Enrico Brignano, "Nudo proprietario" von Rodolfo Laganà und "Tutto dipende da me.... O quasi" von Paola Tiziana Cruciani, Gianni Quinto und Marco Rea. In der selben Saison produziert er die Filmmusik für den Film "A Dark Rome" von Andrés Rafael Zabala, ein Spielfilm, der wichtige internationale Anerkennungen wie: "honorable mention Award" auf dem Festival L.A. Neo Noir Film Festival von Los Angeles USA 2014, "Nominated - TIFVA am Toronto International Film and Video Awards 2014, Nominations Best Feature, Director, Supporting Actor and Winner "BEST CINEMATOGRAPHY" PRICE am Macabre Faire Film Festical di New York, USA 2015 gewinnt. Der Film ist außerdem im Wettbewerb am Fantafestival 2015 in Rom und am Marbella International Film Festival 2015. Er produziert außerdem die Filmmusik für den Kurzfilm "Frammenti" von Raffaello Sasson, der bei wichtigen italienischen und internationalen Filmfestivals teilnimmt und offiziell für das International Film Festival von Los Angeles 2015 ausgewählt wurde. Außerdem arbeitet er ebenfalls im Kino als musikalischer Berater und als Schlagzeugtrainer beim Remake des Films Ben Hur mit Regisseur Timur Bekmambetov und Morgan Freeman, der von der MGM produziert wurde.
+ 
+authors:
+    it: Regista / autori
+    en: Director / authors
+    de: Regisseur / Autoren
+author-and-director:
+    it: Autore e regista
+    de: Autor und Regisseur
+    en: Author and director
+authors-carlo-actors:
+    it: "Alcuni artisti della sua compagnia teatrale partecipano a:"
+authors-carlo-par1:
+    it: > 
+        Al lago di Monte Colombo (Rimini), nell'ambito delle iniziative della Diocesidi Rimini "missione del popolo al popolo" e "comunicare il Vangelo in un mondo che cambia", Carlo Tedeschi è animatore dei centri di ascolto del Vangelo, delle catechesi e delle iniziative sociali culturali e umanitarie che lì si svolgono.
+    en: >
+        At the Lake of Monte Colombo (Rimini), under the auspices of the Diocese of Rimini ‘the mission of the people for the people’, and ‘ to communicate the Gospel in a changing world’ Carlo Tedeschi is animator of the centres of Gospel, of catechism and of socio-cultural and humanitarian initiatives carried out there.
+authors-carlo-pub:
+    it: Pubblicazioni
+    en: Publications
+authors-carlo-tela:
+    it: raccolta di tratti, immagini, parole
+    en: Collection of extracts, images, words
+bank-info:
+    it: >
+        <p><strong>Coordinate Bancarie:</strong></p>
+        <p>Banca: UniCredit
+        <br> Agenzia: Morciano di Romagna (RN)
+        <br> BIC Swift: BROMITRDXXX
+        <br>IBAN: IT 25 B 02008 68000 000100521034</p>
+        <p>Causale: Acquisto DVD/CD</p>
+    en: >
+        <p><strong>Bank details:</strong></p>
+        <p>Banca: UniCredit
+        <br />Agenzia: Morciano di Romagna (RN)
+        <br />BIC Swift: BROMITRDXXX
+        <br />IBAN: IT 25 B 02008 68000 000100521034</p>
+        <p>Description of payment: Buy DVD/CD</p>
+cd_dvd:
+    it: "CD + DVD"
+    en: "CD + DVD"
+    de: "CD + DVD"
+carlo:
+    it: "Carlo Tedeschi"
+    en: "Carlo Tedeschi"
+    de: "Carlo Tedeschi"
+    works:
+        -   title:
+                it: "E' autore e regista di"
+                en: "He is author and director"
+                de: "Autor und Regisseur"
+            text: |
+                * _Sicuramente Amici_ - musical
+                * _Dio che meraviglia!_  - musical
+                * _Lo S...variet&agrave; &egrave; Donna_ - variet&agrave;
+                * _Lo S...variet&agrave; made in Italy_  - variet&agrave;
+                * _Accadde ad Allumiere_   - ballata musicale
+                * _Notte gitana_ - spettacolo spagnolo
+                * _Senza Fili_ - danza e mimo
+                * _Un vagito nella notte_ - Musical della nativit&agrave;
+                * _Un vagito nella notte - Greccio, 1223, Notte di natale_ - presepe in musical di San Framcesco
+                * _Nel nome di Ges&ugrave;_ - musical
+                * _Dedicato a T&egrave;, Signore_ - musical
+                * _Chiara di Dio_ - musical
+        -   title:
+                it: Teatro
+                en: Theatre
+                de: Theater
+            text:  
+                it: |
+                    * Costruisce, forma e dirige la Compagnia teatrale e l'Accademia d'Arte e formazione Professionale al Teatro L. Amici del Lago di Monte Colombo (RN)
+                en: |
+                    * He designed, formed and directed the Theatrical Company and the Academy of Art and Professional Theatrical Formation L.Amici of the lake of Monte Colombo (RN)
+        -   title: 
+                it: Pittura
+                en: Painter
+                de: Maler
+            text: |
+                   * Comincia a dipingere sin dall'infanzia e realizza più di seicento opere tra tele, disegni, incisioni e affreschi
+        -   title:
+                it: Pubblicazioni
+                en: Editions
+                de: Veröffentlichungen
+            text: |
+                * _Lue e Tedeschi_ - raccolta di affreschi e tele corredate dalla interpretazione poetica e filosofica di Leo Amici
+                * _La tela oltre il tempo_ - raccolta di tratti, immagini, parole
+                * _Libera riflessione_ -  raccolta dell'ultima produzione pittorica
+        -   title: 
+                it: Letteratura
+                en: Literature
+                de: Literatur
+            text: | 
+                * _Angela degli Abissi_ - Romanzo - Edizioni Dare
+                * _Il Ritorno dal Labirinto_ - Romanzo - Edizioni Casa della Stampa
+                * _L'Uomo dal Turbante Rosso_ - Romanzo - Stella Polare Editrice
+                * _Parole_ - Poesie - B.F. editrice
+                * _Ricordando_ - Raccolta - B.F. editrice
+                * _Dai Diari di Maria e Carlo_ - Estratto dai diari di Maria Di Gregorio e Carlo Tedeschi - B.F. editrice
+        -   title:
+                it: Cinema
+                en: Cinema
+                de: Kino
+            text: |
+                * _La verità di un ragazzo_ - Direttore Artistico - (film documento di Leo Amici) 
+                * _Che meraviglia, Amici_ - Film di cui scrive il soggetto e partecipa alla sceneggiatura
+        -   title:
+                it: "Alcuni artisti della sua compagnia teatrale partecipano"
+                en: "Some artists of his theatrical company participated"
+                de: "Einige Künstler seines Ensembles wirkten mit bei"
+            link: 
+                it: La compagnia
+                en: The ensemble
+                de: Das Ensemble
+            text: |
+                * _Alleluia, Brava gente_ - con Sabrina Ferilli
+                * _... e meno male che c'è Maria_ - con Enrico Montesano
+                * _Rugantino_ - di Garinei e Giovannini
+                * _I figli della Lupa_ - con Valeria Moriconi 
+                * _Un paio d'ali_ - di Garinei e Giovannini</p>
+
+
+carlo-par1:
+    it: |
+       
+        Attore, regista, poeta, scrittore e pittore, Carlo Tedeschi nasce a Rapallo nel 1951.
+        
+        Comincia a dipingere sin dall’infanzia, il suo primo quadro datato risale al 1957, e giovanissimo si dedica al teatro.
+        
+        Nel 1978 conosce Leo Amici: questo incontro segna la sua vita.
+        
+        Si trasferisce a Cattolica (RN), accanto a Leo Amici e a Maria Di Gregorio, per dedicare totalmente la sua vita al prossimo e alla realizzazione di opere umanitarie dedicate alla pace, all’amore e alla fratellanza.
+        
+        Nel 1983 da vita, insieme a Leo Amici che ne è il promotore, all’associazione umanitaria Dare e realizza il Centro Ecumenico Internazionale “Lago di Monte Colombo” (prov. RN), che prevede tra l’altro la costruzione di una serie di strutture dedicate alla solidarietà, alla realizzazione e alla socializzazione dei giovani.
+        
+        Nel 1985 fonda e dirige l’Accademia d’arte e formazione professionale, fucina di artisti internazionali di grande fama e professionalità.
+        
+        Nel 1986 arriva al successo con il musical “Sicuramente Amici” che scrive, dirige ed interpreta.Nello stesso anno Leo Amici scompare ed egli ne continua l’opera sociale ed umanitaria affiancato da Maria Di Gregorio.
+        
+        Da allora, scrive e dirige altri dieci musical originali, che lo portano a calcare le scene dei maggiori teatri italiani ed al successo della Compagnia Teatrale del Lago.
+        
+        Ma Carlo Tedeschi è soprattutto un uomo di fede: collabora con numerose diocesi italiane, operatore pastorale è animatore di Centri di Ascolto del Vangelo e di catechesi per i giovani.
+        
+        Divenuto regista suo malgrado, gli spettacoli, così come tutta la sua produzione artistica, diventano uno strumento di evangelizzazione per diffondere il messaggio d’amore e di amicizia dell’insegnamento cristiano, per riscoprire i valori, per offrire, soprattutto ai giovani, un esempio di vita cristiana.Nel 2002 costituisce la Fondazione Leo Amici, ente riconosciuto.
+        
+        Nel 2004 scrive e dirige il nuovo musical “Chiara di Dio”, sulla figura di Santa Chiara accanto a San Francesco d’Assisi.
+        
+        Link sito <a href="http://www.carlotedeschi.it">http://www.carlotedeschi.it</a>
+    en: |
+        
+        Actor, director, poet, writer and painter. Carlo Tedeschi was born in Rapallo (Genoa, Italy) in 1951.<br> He started painting when he was only a child. His first painting dates back to1957, and he started devoting himself to the theatre when he was still very young.
+        
+        Later, he moved to Cattolica (Rimini) beside Leo Amici and Maria di Gregorio because he wanted to dedicate his life entirely to his neighbour and to the fulfilment of humanitarian works dedicated to peace, love and brotherliness.
+        
+        In 1982 he gave life, together with its promoter Leo Amici, to the humanitarian Association Dare and realized the International Ecumenical Centre “Lake of Monte Colombo” (Rimini Province) that included, among other things, buildings dedicated to solidarity and to the realization and socialization of the young.
+        
+        In 1985, he founded and directed the Academy of Art and formation to the profession which became a breeding ground for famous professional artists.
+        
+        In 1986, he gained success with “Sicuramente Amici” (Friends for sure) which he wrote, directed and interpreted.
+        
+        Leo Amici died in the same year, and he prosecuted his social and humanitarian work sided by Maria di Gregorio.
+        
+        Since then he has written 17 original musicals which have carried him to the stages of the major Italian theatres and brought success to his company.
+        
+        But, above all, Carlo Tedeschi is a believer (or man of faith): he cooperates with many Italian Dioceses. As a pastoral worker, he animated the centres for the Gospel Listening and catechesis for the youngest ones.
+        
+        As a director, his shows as well as all his artistic productions, have become a means of evangelization with the aim of spreading the message of love and friendship of the Christian teaching, to rediscover values, to offer, especially to the young ones, an example of Christian life.
+        
+        In 2002 he constituted the Leo Amici Foundation, a recognized body.
+        
+        In 2004 he wrote and directed his new musical “Chiara di Dio” based on St. Claire’s life beside St. Francis from Assisi.
+        
+        Link website <a href="http://www.carlotedeschi.it">http://www.carlotedeschi.it</a>
+    de: |
+        Schauspieler, Regisseur, Dichter, Schriftsteller und Kunstmaler, Carlo Tedeschi ist 1951 in Rapallo geboren. Er beginnt schon in der Kindheit mit der Malerei, sein erstes datiertes Bild stammt von 1957, und widmet sich schon in jungen Jahren dem Theater.
+        
+        1978 trifft er auf Leo Amici: diese Begegnung prägt sein Leben. Er zieht nach Cattolica(RN), um an der Seite von Leo Amici und Maria di Gregorio, sein Leben ausschließlich seinem Nächsten zu widmen, und um humanitäre Aktivitäten die dem Frieden, der Liebe und der Brüderlichkeit gewidmet sind, zu realisieren.
+
+        1983 ruft er zusammen mit dem Initiator Leo Amici die humanitäre Vereinigung "Dare" (Geben) ins Leben und stellt das internationale ökumenische Zentrum "Lago di Monte Colombo" (prov. RN) auf die Beine, das unter anderem den Aufbau einer Reihe von Einrichtungen vorsieht, die der Solidarität und der Verwirklichung und Sozialisierung Jugendlicher dienen sollen. 1985 gründet und leitet er die Akademie für Kunst und professionelle Fortbildung, eine Schmiede internationaler Künstler guten Rufes und großer Professionalität.
+
+        1986 hat er Erfolg mit dem Musical „Sicuramente Amici“, das er schreibt, Regie führt und auch als Akteur zum Einsatz kommt. Im selben Jahr stirbt Leo Amici aber er führt das Soziale und humanitäre Wirken Leo Amicis, unterstützt von Maria di Gregorio, fort. Von da an schreibt er weitere zehn originale Musicals bei denen er auch die Regie führt, was ihn auf die bedeutendsten Bühnen Italiens, und zum Erfolg des Theater-Emsembles „Compagnia Teatrale del lago“ führt. 
+
+        Aber Carlo Tedeschi ist hauptsächlich ein Mann des Glaubens: er arbeitet mit zahlreichen italienischen Diözesen zusammen, ist pastoraler Mitarbeiter und Triebfeder für Zentren der Anhörung des Evangeliums und den Katechismus für Jugendliche.
+
+        So, unbeabsichtigt zum Regisseur geworden, werden seine Aufführungen und alle seine Künsterlischen Produktionen ein Instrument der Evangelisierung um die Botschaft der Liebe und der Freundschaft der Christlichen Lehre zu verbreiten, und damit die Werte wieder zu entdecken um, hauptsächlich Jugendlichen, ein Beispiel christlichen Lebens, anzubieten. Im Jahr 2002 gründet er die Stiftung Leo Amici, eine anerkannte Körperschaft.
+
+        2004 schreibt er das neue Musical „Chiara di Dio“, das von der heiligen Klara von Assisi, an der Seite des heiligen Franziskus, handelt, und führt auch die Regie.
+cdaudio:
+    it: "CD Audio"
+    en: "CD Audio"
+complete_version:
+    it: Spettacolo in versione integrale (2 ore)
+    en: Complete musical (2 hours)
+    de: Komplettes Musical
+contact:
+    it: Contatti
+    en: Contact
+    de: Kontakt
+details:
+    it: "Informazioni sul prodotto"
+    en: "Details"
+disks:
+    it: CD e DVD
+    en: CD and DVD
+disks-par1:
+    it: >
+        E' possibile ordinare <strong>On-line</strong> il <strong>CD AUDIO</strong> ed il <strong>DVD</strong> di <strong>Chiara di Dio</strong> <br> 
+        inviando una E-Mail comunicando il prodotto desiderato e l'indirizzo a cui spedire l'acquisto,<br> il pacchetto verrà recapitato a casa tramite contrassegno postale o bonifico bancario.
+    en: >
+        You can order the audio CD and the DVD by sending an e-mail. Please specify the product desired and the address where you want the parcel to be sent. Cash is due upon receipt (for Italy only).
+disks-par2:
+    it: >
+        I CD e DVD sono in vendita anche al Teatro Metastasio di Assisi e al Lago di Monte Colombo (RN).
+    end: >
+        The CDs and the DVDs are also available at the Metastasio theatre Assisi and at the Lago of Monte Colombo (RN).
+dvd:
+    it: "DVD"
+    en: "DVD"
+enlargepic:
+    it: Clicca sui immagini per ingrandire
+    en: Click on an image to enlarge
+extract:
+    it: Estratto del musical su richiesta
+    en: Extract of musical on request
+    de: Auszug aus dem Musical auf Anforderung
+gallery:
+    it: Galleria
+    en: Gallery
+    de: Galerie
+galleryclick:
+    it: Clicca sulla parte destra della foto per andare avanti
+    en: Click the right half of the image to move forward.
+gianluca:
+    de: "Gianluca Raponi"
+    en: "Gianluca Raponi"
+    it: "Gianluca Raponi"
+gianluca-par1:
+    it: >
+        <p>Già coreografo dei precedenti Musical di successo di Carlo Tedeschi Chiara di Dio e Un fremito d’ali. La sua formazione avviene presso l’Accademia del Lago di Monte Colombo - RN, diretta da Carlo Tedeschi, dove studia: danza classica metodo RAD, modern jazz, tip tap, acrobatico, canto, recitazione e musica.</p>
+        <p>Nel 1986 entra a far parte della compagnia teatrale di Carlo Tedeschi e partecipa a tutti i suoi spettacoli come primo ballerino nelle coreografie curate dal coreografo Carmelo Anastasi (socio fondatore dello IALS di Roma).</p>
+        <p>Al Teatro Sistina in Roma, per la regia di Pietro Garinei, lavora nelle commedie musicali:</p>
+        <p>Alleluia Brava Gente edizione con Sabrina Ferilli, E meno male che c’è Maria con Enrico Montesano, I figli della lupa con Valeria Moriconi. Nel Renato Greco Ballet danza come primo ballerino in: Triccaballacco, Trilussa, Caino e Abele, Talk About and Child, con le coreografie di Maria Teresa Dal Medico e Renato Greco.</p>
+        <p>Partecipa a numerose trasmissioni televisive per le reti nazionali.</p>
+        <p>Operette: per la regia e coreografia di Gino Landi, al Teatro Verdi di Trieste, Il Pipistrello e La Vedova Allegra. Al Teatro dell’Opera di Roma, La Vedova Allegra. Cinema: protagonista del film - documento La verità di un ragazzo, regia di Leo Amici.</p>
+        <p>Nell’estate del 2007, la Commissione della Royal Accademy of Dance di Londra, lo ingaggia come insegnante di danza jazz della scuola estiva che da anni organizza corsi di perfezionamento a Fondo Valle di Non (Trentino Alto Adige).</p>
+    en: >
+        <p>He was the choreographer of Carlo Tedeschi success musicals as Clare of God and A Flutter of Wings. His education and training took place at the Lake Academy in Monte Colombo Rimini directed by Carlo Tedeschi. There he studied ballet with the RAD method, modern jazz, tip tap, acrobatic dance, singing, acting and music.</p>
+        <p>In 1986 he joined Carlo Tedeschi theatrical company and participated to all his performances as male lead with the choreography of Carmelo Anastasi (founding member of the IALS in Rome).</p>
+        <p>He worked at the Sistina theatre under the direction of Pietro Garinei in the musicals: “Alleluia Brava Gente” with Sabrina Ferilli and “Meno male che c’è Maria” with Enrico Montesano and “I figli della lupa” with Valeria Moriconi.</p>
+        <p>In the Renato Greco Ballet, he performed as male lead in: “Triccaballacca” “Trilussa” “Caino e Abele” “Talk about” and “Child” with the choreographies of Maria Teresa dal Medico e Renato Greco.</p>
+        <p>He participated in many national television programs.</p>
+        <p>Operettas: at the Verdi theatre in Trieste under the direction and choreography of Gino Landi “Il Pipistrello” and “La Vedova Allegra”. At the Roma Opera House “La Vedova Allegra”.</p>
+    de: >
+        <p>Er war schon Choreograph der vorherigen Erfolgsmusicals "Chiara di Dio" und "Un fremito d'ali" von Carlo Tedeschi. Seine Ausbildung machte er in der Akademie am Lago di Monte Colombo - RN, die von Carlo Tedeschi geleitet wird, in klassischen Tanz nach der Methode RAD, modernen Jazz, Step Tanz, Akrobatik, Gesang, Schauspiel und Musik.  1986 tritt er Carlo Tedeschis Theater-Ensemble bei und tanzt bei allen Stücken als Primoballerino in Carmelo Anastasis (Gründungsmitglied der IALS von Rom) Choreographien mit.</p>
+        <p>Im Theater Sistina in Rom unter der Regie von Pietro Garinei arbeitet er in folgenden Musicals mit: Alleluia Brava Gente edizione mit Sabrina Ferilli, E meno male che c’è Maria mit Enrico Montesano, I figli della lupa mit Valeria Moriconi. Im Renato Greco Ballett tanzt er als Primoballerino in: Triccaballacco, Trilussa, Caino e Abele, Talk About and Child, mit den Choeographien von Maria Teresa Dal Medico und Renato Greco.</p>
+        <p>Er ist an einer Vielzahl von Fernsehübertragungen in nationale Netze beteiligt.</p>
+        <p>Operetten: In der Regie und Choreographie von Gino Landi im Theater Verdi in Triest: in "Die Fledermaus" und in "Die lustige Witwe". Im Operntheater von Rom: Die lustige Witwe. Kino: Hauptrolle im Dokumentarfilm "lLa verità di un ragazzo"(Die Wahrheit über einenJungen), unter der Regie von Leo Amici.</p>
+        <p>Im Sommer 2007 engagiert ihn die das Gremium der Royal Accademy of Dance aus London als Tanzlehrer im Jazz Tanz in der Sommerschule, die seit Jahren Kurse zur Perfektionierung in Fondo Valle di Non (Trento Südtirol) organisiert.</p>
+
+his-work:
+    it: Le sue opere
+    en: His work
+    de: Werke
+home:
+    it: Home
+    en: Home
+    de: Home
+image:
+    it: "Immagine"
+    en: "Picture"
+info:
+    it: Info
+    en: Info
+    de: Info
+index-title:
+    it: La vita, la goventù, la bellezza di Chiara accanto a Francesco
+    en: The life, the youth, the beauty of Chiara at the side of St. Francis
+    de: Das Leben, die Jugend, die Schönheit von Klara an der Seite von Franziskus
+letters:
+    it: Lettere
+    en: Letters
+    de: Briefe
+letters_and_testimonials:
+    it: Lettere e testimonianze
+    en: Letters and testimonials
+    de: Briefe und Aussagen
+letters-list:
+    -   all: 
+            par: |
+                Muy estimados hermanos ¡Paz y bien!
+
+                Nuestra Fraternidad de Clarisas Capuchinas de Jesús, María y José de Lima – Perú, les saluda con la alegría franciscana.
+                Nos sentimos muy agradecidas y orgullosas al reconocer la calidad de trabajo que Uds. han realizado, sobre todo por lo que constatamos lo que ha representado para Uds. montar este bellísimo musical Chiara di Dio, encontramos allí un testimonio del amor a Dios, y adhesión a ese grande y maravilloso amor, que suscita y motiva la vida de Clara y Francisco.
+                
+                Nos alegra y anima &nbsp;vuestra oración testimonio que ayudaría mucho al mundo tan secularizado el tener el contacto con este instrumento y favorecería el acercamiento y/o vuelta de la juventud a la práctica de la Fe católica
+                
+                Dios los bendiga MUCHÍSIMO y por el amor de DIOS sigan trabajando para gloria de Dios y salvación de las almas
+                
+            name: Sus hermanas Clarisas Capuchinas de Lima-Perú
+    -   it: 
+            par: |
+                “...Vengo da San Damiano e sono uno dei tanti che hanno organizzato le celebrazioni per i 750 anni dalla morte di S. Chiara. Ho conosciuto Carlo e dopo aver visto il Presepe Vivente “Un vagito nella notte” durante il periodo natalizio a Santa Maria degli Angeli, gli ho chiesto, quasi per scherzo, di realizzare un musical su S. Chiara. Lui mi ha detto sì. Si è fatto aiutare dalle Fonti Francescane e la S. Chiara che ne è emersa non è stucchevole, ma una donna vera, l’altra Maria, la famosa altra Maria. A ciò si aggiunge la complementarietà con Francesco ed ecco l’altro Cristo e l’altra Maria. La storia della salvezza è iniziata con l’uomo e la donna e finirà sempre così, con l’uomo e la donna che non si possono separare. Ecco il mio amore spassionato per Chiara, perché la mia vocazione è nata proprio in un monastero di clarisse, lì ho capito che il Signore mi chiamava alla vita francescana. Ho detto anche ai miei superiori che questo spettacolo si doveva fare a S. Damiano, dentro S. Damiano, nei luoghi di S. Damiano, dove lei è vissuta per 42 anni. Di solito è una cosa impossibile, nel senso che non danno molti permessi, è un santuario particolare, antico. Ma loro, i miei superiori, subito mi hanno detto di sì. E allora questo spettacolo sarà a S. Damiano l’11 e il 12 Agosto, di sera, e Chiara rivivrà nei luoghi originali dove lei ha vissuto e dove ha fondato l’ordine delle sorelle povere. Ringrazio Carlo, ringrazio tutti, anche perché ho visto che i suoi spettacoli trasmettono qualche cosa di più; io penso che catechizzino e trasmettano quel bisogno di bellezza insito nell’uomo. Penso che solo la bellezza salverà il mondo e non lo salveranno le grandi potenze, il mondo, adesso, ha bisogno di questo”.
+
+            name: Padre Giuseppe
+        de: 
+            par: |
+                „… Ich komme aus San Damiano und bin einer der vielen, die die Feierlichkeiten zum 750. Gedenkjahr des Todes der hl. Klara mit organisiert hat. Ich habe Carlo kennengelernt und nachdem ich die lebendige Krippe „un vagito nella note“ in der Weihnachtszeit in Santa Maria degli Angeli gesehen habe, habe ich Ihn, sozusagen aus Spaß gefragt, ob er nicht ein Musical über die hl. Klara auf die Beine stellen möchte. Er hat zugesagt. Er hat sich Hilfe aus den franziskanischen Quellen geholt, und die hl. Klara, die zum Vorschein kam, war nicht langweilig, sondern eine wahrhafte Frau, die andere Maria - die berühmte andere Maria. Hier fügt sich die Komplementarität (das sich Ergänzen von verschiedenen Dingen oder Aspekten) mit Franziskus an und schon haben wir den anderen Christus und die andere Maria. Die Heilsgeschichte hat mit Mann und Frau begonnen und wird auch so enden -  mit Mann und Frau, die man nicht von einander trennen kann. Daher auch meine unvoreingenommene Liebe zu Klara. Meine Berufung kam in einem Klarissenkloster an Licht; dort habe ich verstanden, dass der Herr mich zu einem franziskanischen Leben ruft. Ich habe auch meinen Vorgesetzten gesagt, dass man dieses Musical in San Damiano aufführen müsste, genau an dem Platz, wo Sie 42 Jahre lang gelebt hatte. Für gewöhnlich ist so etwas unmöglich, das heißt, es werden nicht viele Genehmigungen erteilt weil es ein antikes, ganz besonderes Heiligtum ist, doch meine Vorgesetzten haben sofort eingewilligt. Jetzt wird das Musical am 11. und 12. August abends in den Mauern San Damianos aufgeführt werden, und Klara wird an den Originalschauplätzen, dort wo sie gelebt und wo sie den Orden der armen Schwestern gegründet hat, zu neuem Leben erwachen. Ich danke Carlo und allen anderen, auch weil ich verstanden habe, dass seine Stücke eine ganz besondere Ausdruckskraft haben. Ich denke, dass sie katechisieren und den Wunsch nach der Schönheit übermitteln, die dem Menschen innewohnt. Ich denke es ist allein die Schönheit, die die Welt retten wird, nicht die großen Mächte, die Welt, es ist das, was sie jetzt braucht."
+            name: Padre Giuseppe
+    -   it: 
+            par: |
+                Annamaria, ogni volta, come del resto tutti i ragazzi, ma in maniera particolare e sempre nuova, riesci a commuovermi profondamente per il modo unico, genuino, forte e così spontaneo in cui interpreti la figura della nostra amata Madre Chiara, facendoti penetrare dalla sua spiritualità meravigliosa, ma unendovi con generosità e naturale inclinazione, la gioia e l'Amore del tuo cuore, che sento grande.
+                
+                Fin dal primo istante in cui vidi, in lacrime, la prima volta il Nostro spettacolo (permettimi questa piccola licenza... poichè, come dicevano i santi, è nostro ciò che amiamo), mi sono sentita profondamente vicina al vostro cammino e che finalmente qualcuno era riuscito a far vibrare in me corde così belle (che da sempre ho portato nel silenzio del cuore)..., da rimanere senza fiato! È una gioia indescrivibile trovare persone che diano voce a ciò che di più grande risuona in noi..ma che così di rado possiamo condividere, spesso proprio con coloro che più amiamo!
+                
+                Benedico Dio per avervi incontrati tutti e perchè il Signore abbia trovato anche questo prezioso canale per raggiungere i nostri cuori.
+            name: Ombretta
+        de: 
+            par: |
+                Annamaria, wie auch alle anderen Akteure berührst du mich aber im Besonderen jedes mal aufs Neue zutiefst und auf einzigartige, authentische starke und spontane Weise. Es ist die Art, wie du unsere geliebte Mutter Klara interpretierst, indem du dich von Ihrer wunderbaren Spiritualität erfüllen lässt, dich aber auch mit Edelmut und natürlicher Neigung mit deiner Freude und der Liebe deines Herzens, das ich als groß erachte, vereinigst.
+
+                Seit dem ersten Augenblick, als ich unter Tränen "unser" Musical sah (erlaube mir diese kleine Freiheit… denn, wie die Heiligen sagten: alles, was wir lieben, ist unser), habe ich mich in innigster Weise so nah an eurem Weg gefühlt, denn endlich ist es jemandem gelungen, in mir so wunderbare Saiten zum schwingen zu bringen (die ich bisher immer in der Stille meines Herzens trug)… atemberaubend. Es ist eine unbeschreibliche Freude, Menschen zu treffen, die dem Größten, was uns erfüllt, eine Stimme geben…. wir aber so selten mit jemanden teilen können, oftmals gerade mit denen nicht, die wir am meisten lieben!
+
+                Ich preise Gott dafür, daß ich euch getroffen habe, und weil Er diesen wertvollen Kanal, unsere Herzen zu erreichen, gefunden hat .
+            name: Ombretta
+    -   it: 
+            par: |
+                "Grazie perché, da questa breve rappresentazione sulla morte di Santa Chiara, siamo stati portati in alto per gettare lo sguardo verso il cielo, in quella dimensione della volontà di Dio."
+
+            name: Frate Stefano
+    -   it: 
+            par: |
+                Carissimo Sig. Carlo, ci avevano detto che il musical “Chiara di Dio” era bello, ma non pensavamo che fosse di un messaggio così forte ed emozionante. Alla capacità artistica dei suoi componenti si unisce una spiritualità profonda che avvolge il cuore, di chi ascolta e vede, di una pace profonda che dona forza per riprendere o continuare un cammino d’amore verso Dio. Abbiamo ascoltato con interesse le sue presentazioni e abbiamo colto nel suo spirito l’azione della grazia che lavora intensamente nel cuore, lo sentiamo partecipe della nostra vita e vocazione, abbiamo percepito come il messaggio di Chiara e Francesco ci unisce e ci guida nel nostro cammino verso il Padre. Rimaniamo uniti nella preghiera e lo Spirito che guida le nostre menti e i nostri cuori sia sempre l’ispiratore d’ogni arte in lei e in tutti gli artisti che compongono la compagnia. Grazie!</p>
+            name: Suor Chiara Isabella e Sorelle
+    -   it:
+            par: |
+                Carissimo, è bello sentirci uniti nella fede e nell’amore, così tenero ed infinito del Padre delle Misericordie come Lo chiamava la nostra madre Santa Chiara, “Chiara di Dio”! Non poteva nascere un’espressione più bella! Veramente sono commossa e con me le mie sorelle ed amici che domenica 11 Luglio abbiamo visto il DVD “Chiara di Dio”. È semplicemente splendido! Come ci piacerebbe poterlo vedere nella sua completezza!
+                
+                Però siamo figlie di Chiara, che ha scelto per le sue sorelle “di vivere rinchiuse” per essere libere per Lui. Comunque, da parte mia, farò il possibile affinché il più grande numero possibile di persone possano vederlo, ne vale la pena! In quest’anno del centenario, nel nostro piccolo, non ci siamo risparmiate, né tempo né energie per far conoscere la nostra<br>Madre. Questa sua opera teatrale completa la nostra gioia.
+                
+                Grazie! Grazie infinite! Come segno del nostro affetto e gratitudine promettiamo di ricordare te, i tuoi ragazzi, tutti i collaboratori di quest’opera meravigliosa che il Signore ti ha affidato.
+                
+                E Tu Signore sii benedetto.
+            name: Suor Maria Aparecida
+    -   it: 
+            par: |
+                “Fratelli e sorelle vi saluto con le parole di Chiara: “Che il Signore sia con voi e voi siate sempre con Lui”. Tra poco vedremo il musical “Chiara di Dio”, io lo vedrò per la seconda volta e vorrei invitarvi a seguirlo soprattutto con il cuore, perché è Chiara che parla in questo musical e mi sembra una bellissima idea iniziare questo incontro proprio in atteggiamento di preghiera.<br>Vi invito allora al silenzio, magari anche per ripetere quella preghiera che Francesco recitava qui, di fronte al Cristo di San Damiano, in modo che lo Spirito del Signore apra il nostro cuore per accogliere veramente il messaggio, ancora attualissimo, che Chiara ci offre dopo 750 anni dalla sua morte. Chiara ha finito qui i suoi giorni ringraziando il Signore perché l’aveva creata. Con questa predisposizione diciamo insieme a lei la preghiera che Gesù ci ha insegnato: Padre nostro…”
+            name: P. José Rodriguez Carballo
+    -   it: 
+            par: |
+                Cosa non ho avuto la grazia di vedere?
+                
+                Che lavoro immane hanno fatto quei giovani per trasmettere una santa memoria. L’amore non ha confini, la fede sposta le montagne si dice. A San Damiano la fede e l’amore hanno fatto rivivere anche le pietre ed hanno permesso a noi uomini del 2004 di essere presenti a ciò che è accaduto 750 anni fa. La collina si è illuminata di luci e tutt’intorno è risuonata di canti e preghiere, gli sguardi dei presenti erano focalizzati sulla scena e gli animi elevati in cielo capaci solo di pregare. Perdonate, povere parole per dire cose grandi. Io sono stata accompagnata per tutta la sera da una parola che dava significato e si ritrovava in ogni sequenza: “Chi compie la volontà del Padre è per me fratello, sorella e madre.” Il tema della maternità umana e della maternità spirituale che genera la vita e ci fa fratelli, sorelle e madri di Cristo, in Cristo e per Cristo. Dalla madre terrena Chiara imparo cos’è l’obbedienza e così diviene madre e sorella di Cristo e delle sorelle che serve, aiuta, conforta ecc.. È per le sue figlie che invoca aiuto a Dio “difendi tu le figlie tue”. 
+                
+                Sempre un essere Madre e Figlia insieme. Ma perché mi stupisce questo? Cos’è San Damiano? Cos’è stato? Cosa fa San Damiano? CHIAMA ALLA VITA, genera all’amore di Cristo, non è forse a San Damiano che Francesco è stato chiamato da Dio? Non è a San Damiano che pone la sua pianticella? Ecco perché a San Damiano, anche in Agosto, si possono trovare CERASE perché è come dire che l’amore fa nascere i suoi frutti in ogni tempo.
+                
+                Alcuni, sapendo che più volte ho visto questo spettacolo, mi hanno domandato: “Perché continui a vederlo, che ci trovi”? Io ho fatto un minuto di silenzio nel quale mi è tornato alla mente un episodio di dieci anni fa, quando ad una meravigliosa bambina di cinque anni che non si stancava mai di vedere la cassetta di Biancaneve, ho detto: “Marilù, ma non ti sei stufata di vedere sempre questa storia?” E lei senza pensare mi rispose “perché mi fa pensare cose tanto belle, anche quando piove e non posso giocare fuori”. Così ho risposto loro: “perché mi fa pensare cose belle anche quando piove nel cuore e non puoi andare lontano o fuori da te". Grazie per aver dato a me ed a tanti la possibilità di pensare cose belle perché per me ciò che è bello è buono e ciò che è buono è Dio
+            name: Suor Annamaria
+    -   it:
+            par: |
+                Carissimo Carlo,
+                
+                Il Signore le dia Pace!
+                
+                Dal Rwanda veniamo per dirle la nostra gratitudine per quanto fate per l’Ordine di Santa Chiara qua, nella terra rwandese, dedicandole una bella iniziativa. Ne siamo veramente commosse e ci mancano le parole per dire quello che c’è nel nostro cuore e come ci sentiamo amate e sostenute per andare avanti nel servizio del Signore sulle orme di Santa Chiara.
+                
+                Nel centenario del transito della Madre Chiara, abbiamo pensato tanto a voi e chiesto tante grazie per la vostra compagnia. Siate sicuri che siete nel suo cuore materno e che la vostra iniziativa per il bene delle sue Figlie è gradita. Con “Chiara di Dio” voi cooperate alla conoscenza della nostra Santa Madre e siete i suoi messaggeri in Italia, in Rwanda e nel mondo intero. Tante grazie per averci inviato il disco e i libretti; così partecipiamo anche a distanza, seguendo lo svolgimento e i canti con la bella musica. È un vero apostolato! Le sorelle della nuova fondazione stanno bene e vi ringraziano tanto. I lavori di costruzione seguono le tappe e sono iniziati con la chiesa legata al coro del monastero. Pregate dunque per loro e per noi affinché siamo pietre viventi con le quali il Signore forma il suo edificio spirituale. Affidiamo ciascuno alla materna protezione di Maria e Chiara affinché portino a compimento tutti i vostri desideri di bene a Gloria di Dio. Con grande riconoscenza.
+            name: Le sorelle Clarisse di Kamonyi e Musambira / Rwanda
+    -   it: 
+            par: |
+                Solo il Signore sa quali e quante grazie ha voluto regalare a tutti noi attraverso la visione del musical “Chiara di Dio”. Vorrei dire uno spettacolo “ispirato”. Se è vero che Dio è bellezza, sono convinto che un riflesso della Sua Luce è filtrato attraverso i vostri volti, le vostre musiche, le vostre danze.
+                
+                “Chiara di Dio” è un’opera bella, scaturita dal soffio stesso di Colui che è la bellezza che salverà il mondo! Con l’augurio che possiate presto tornare a Napoli per condividere con altri fratelli e sorelle la stessa gioia e la stessa emozione che abbiamo provato noi nella notte di sabato 19 Febbraio. Il Signore vi dia pace! A presto.
+            name:   Frate Gianluca
+    -   it: 
+            par: |
+                “Il Signore, il Signore… Quanto è grande il Signore!”, esclama Chiara nel musical “Chiara di Dio”, una lode che abbiamo ripetuto spesso nei sei lunghi mesi di preparazione di questo spettacolo e che oggi, più che mai, dopo aver sperimentato sensazioni, emozioni, amicizia e soprattutto tanta fede e dopo aver assaporato un angolo di paradiso, ribadiamo con forza e certezza. Stiamo parlando della meravigliosa esperienza vissuta dall’incontro con Carlo Tedeschi e Daniela Natale, Annamaria Bianchini, Stefano Natale e Maihri, Tiziana, Costantino, Giacomo e tante altre splendide persone che abbiamo avuto la gioia di conoscere e che, con tanto amore, ci hanno accolto a maggio ad Ulignano, tra le verdi colline della Toscana, a giugno a Pisticci per il musical “Un fremito d’ali” e a settembre, insieme ai nostri giovani, al Lago di Monte Colombo dove, tra “Pace, Amore e Fratellanza”, ci hanno parlato dei fondatori di questo luogo Leo Amici e Maria Di Gregorio. Abbiamo visitato le strutture ricche di storia di questo “Piccolo Paese fuori dal Mondo” in cui davvero si vive secondo l’insegnamento di Gesù. Attraverso le testimonianze di fede, il canto e la luce che si intravedevano nei loro volti, abbiamo gustato la vera bellezza, riflesso di quella divina, momenti di comunione e tanta spiritualità.
+                
+                Lo avevamo capito subito, già dopo la prima visione del musical “Chiara di Dio” nel settembre del 2005 a Loreto, che non si trattava di un semplice spettacolo, che non erano soltanto artisti. Al di là della bravura, della professionalità, c’era qualcosa di più grande che traspariva dalle voci, dai corpi e dai volti; qualcosa che ci ha messo in comunione con Francesco e Chiara, li ha resi presenti, vivi: tutti loro erano innamorati di Cristo! Anche noi in parrocchia, nel nostro piccolo, da anni utilizziamo il teatro come strumento di evangelizzazione per formare i giovani credenti e non, praticanti e non, per trasmettere il messaggio cristiano. Ad agosto abbiamo presentato il musical “Chiara di Dio” e abbiamo avuto la gioia di avere tra noi Annamaria e Titti che con tanto sacrificio ci hanno onorato della loro presenza e del loro sostegno.
+                
+                Spesso ci chiediamo se davvero questo sia uno strumento valido per portare Gesù nel cuore dei giovani, soprattutto quando i risultati non sono quelli che ci si augurava. Ma, dopo quest’incontro con Carlo, Annamaria e la Compagnia Teatrale, siamo sempre più consapevoli che, qualunque sia lo strumento, è necessario partire da Cristo se vogliamo portarLo agli altri.
+                
+                La preghiera, l’appartenenza alla Chiesa, la vita sacramentale e l’amore per il prossimo sono il “segreto” di questi ragazzi e dei loro maestri, “segreto” che ci auguriamo si sia reso manifesto a noi tutti, ai nostri giovani, a volte un po’ superficiali nella vita di fede.
+                
+                Carissimi amici in Cristo, vi ringraziamo di vero cuore per l’emozione, la gioia e la testimonianza che ci avete trasmesso. Questa esperienza, che in ognuno di noi ha lasciato una traccia profonda, è stata fondamentale per il proseguimento del nostro cammino.
+                
+                Abbiamo imparato tanto da voi, siamo tornati a casa ricchi di tanta bellezza, luce, di tanto amore, della grazia di Dio. E con Chiara continuiamo a dire in un unico abbraccio: “Il Signore, il Signore… Quanto è grande il Signore!”. Con immensa riconoscenza e infinito affetto
+            
+            name: Parrocchia "San Rocco", Stornara
+    -   it: 
+            par: |
+                Carissimi tutti del cast di “Chiara di Dio”, sono don Carlo, quel giovane prete che con i miei ragazzi abbiamo assistito allo spettacolo domenica scorsa e con i quali poi avete fatto anche una fotografia…
+                
+                vrei tante cose da dire ma mi piace riassumerle in una parola sola: GRAZIE!
+                
+                Abbiamo vissuto un vero pomeriggio di grazia e di invito alla Bellezza…
+                
+                Grazie per averci affascinato senz’altro con la vostra bravura e professionalità ma soprattutto con la vostra gioia ed entusiasmo… I miei ragazzi erano letteralmente affascinati e entusiasti di questo vostro lavoro… e lo sono anch’io…
+                
+                Sono prete da appena un anno ed è stata per me l’occasione di ripensare al perché ho scelto questa strada, a Chi ho deciso di donare al mia vita… Grazie davvero di cuore…
+
+            name: Don Carlo 
+    -   it: 
+            par: |
+                Ciao mi chiamo Raffaele e sono un seminarista.. Sono venuto a vedere lo spettacolo e volevo complimentarmi con voi… siete riusciti a trasmettere Dio in modo splendido… Attraverso di voi Egli mi ha raggiunto e mi ha accarezzato il cuore… Quindi vi ringrazio sentitamente per questa occasione di “preghiera” e incontro con Dio che mi avete concesso con il vostro spettacolo…
+
+            name: Raffaele
+    -   it: 
+            par: |
+                Sono un sacerdote di Barletta e ho assistito alla rappresentazione del Musical “Chiara di Dio” ad Assisi. Desidero esprimere il mio ringraziamento per una rappresentazione tra le più belle che abbia mai visto in vita mia. Sono rimasto letteralmente folgorato! Avrei voluto conoscere uno per uno gli interpreti, abbracciarli e ringraziarli... Grazie per avermi dato una gioia immensa con il musical “Chiara di Dio” che sarà per sempre scolpito nel mio cuore.
+            name: Don Francesco
+    -   it: 
+            par: |
+                Grazie!
+                
+                Sono stata, Domenica 17 Luglio, a Longiano ed ho assistito al vostro meraviglioso musical. Ora stò riascoltando il CD e sembra quasi di ritornare a quella bellissima sensazione che ho provato guardando gli attori sul palco e ascoltando le musiche e le voci. Vorrei complimentarmi tanto con il regista e con ognuno della compagnia teatrale, perchè siete riusciti con molta semplicità e delicatezza e, soprattutto, riportando continue citazioni dalle fonti francescane, senza variare nulla dalla originalità dei testi. Complimenti anche per i balletti, i costumi, le luci, le scenografie, tutto aveva una grande armonia e soprattutto si percepiva “qualcosa di speciale”, forse era la mano del Signore che trasmetteva a tutti voi un “qualcosa in più”, o forse siete voi tutti che “vivete” in un certo modo tutto ciò che fate, quello che ognuno di noi dovrebbe cercare di fare nella propria vita…
+            name: Federico
+    -   it:
+            par: |
+                Sono la responsabile di un gruppo parrocchiale di giovani di ben 38 elementi.
+                
+                Vi scrivo per ringraziarvi per quello che date nei vostri spettacoli, per i messaggi forti e intensi che riuscite a comunicare. Da quando ho visto “Chiara di Dio” con un gruppo di ragazzi, non ho più smesso di seguirvi. Non ci crederete ma i ragazzi, alcuni di loro anche con grandi problemi, riescono a cantare per la strada “Beato sia quel giorno” o “Mi illumino di Te” in un paese in cui non c’è nulla per loro, anzi.
+                
+                Ed è solo per merito vostro.
+                
+                Mi piacerebbe realizzarlo insieme a loro, naturalmente in piccolo perché la nostra parrocchia non è grande...
+                
+                Infine, solo una piccola testimonianza; sono francescana nel cuore e, ogni volta che sento i nomi di Francesco e Chiara, non riesco a fermare il cuore. Fino a poco tempo fa, ero convinta che solo operando grandi cose potevo rendere loro giusta lode, oggi, invece, grazie a voi ho riscoperto la loro vera natura: essere piccoli seminatori in un campo senza fine.
+                
+                Spero di rivedervi presto.
+            name: Margaret
+links:
+    it: Links
+    en: Links
+    de: Links
+material:
+    it: Materiali
+    en: Material
+media:
+    it: Media
+    en: Media
+    de: Medien
+onstage:
+    it: In scena
+    en: On stage
+    de: Auf der Bühne
+on-stage-at:
+    it: In scena al
+    en: On stage at
+    de: Aktuelle Aufführungen im
+on_donation:
+    it: a offerta libera
+    en: on free donation
+    de: gegen freiwillige Spende
+opened:
+    it: Teatro aperto tutti i giorni dalle 9:00 alle 20:00
+    en: The theatre is open all days from 9 am until 8 pm
+order-send-mail:
+    it: "Per ordinare, inviate una mail a "
+    en: "To order, please send an e-mail to"
+payment-1:
+    it: "contrassegno postale"
+    en: "Europe"
+payment-2:
+    it: "bonifico bancario"
+    en: "World"
+payment-to:
+    it: "Acquisto con bonifico bancario intestato a:"
+    en: "Payment Method: Bank Transfers"
+press_comm:
+    it: Comunicato stampa
+press_review:
+    it: Rassegna stampa/TV
+price:
+    it: "Prezzo"
+    en: "Price"
+prices-from-italy:
+    it: "I prezzi esposti si intendono per acquisti sul territorio italiano."
+product:
+    it: "Prodotto"
+    en: "Product"
+promotedby:
+    it: promosso da
+    en: promoted by
+reduced_1:
+    it: Ridotto per gruppi superiori alle 25 persone
+    en: Reduced for groups of more than 25
+    de: Reduziert für Gruppen über 25 personen
+reduced_2:
+    it: Ridotto per bambini di età tra i 4 e 12 anni
+    en: Reduced for children aged 4 to 12 years 
+    de: Reduziert für Kinder von 4 bis 12 Jahren
+rightsreserved:
+    it: tutti i diritti riservati
+    en: all rights reserved
+schedule:
+    it: Programmazione
+    en: Schedule
+    de: Spielplan
+schedule-par1:
+    it: >
+        <p class="text-center">
+        Guarda le date su: <a href="http://www.teatrometastasio.it/chiara-di-dio/" title="Teatro Metastasio">www.teatrometastasio.it</a>
+        <br />Ogni giorno su richiesta per gruppi
+        <br /> (superiori alle 40 persone)
+        <br /> 
+        <br /> INTERO (2 ore)
+        <br /> 
+        <br /> o
+        <br /> 
+        <br /> RIDOTTO (60 min)
+        <br /> 
+        <br /> o
+        <br /> 
+        <br /> ESTRATTO (15 min)
+        <br /> 
+        <br /> 
+        <br /> Piazzetta Verdi
+        <br /> Tel 075/815381
+        <br /> 389/7828080
+        </p>
+    en: >
+        <p class="text-center">
+        See the schedule on <a href="http://www.teatrometastasio.it/chiara-di-dio/" title="Teatro Metastasio">www.teatrometastasio.it</a>
+        <br />Each day on request for groups:
+        <br /> (more than 40 persons)
+        <br /> 
+        <br /> Entire musical (2 hours)
+        <br /> 
+        <br /> o
+        <br /> 
+        <br /> Reduced (60 min)
+        <br /> 
+        <br /> o
+        <br /> 
+        <br /> Extract (15 min)
+        <br /> 
+        <br /> 
+        <br /> Piazzetta Verdi
+        <br /> Tel 075/815381
+        <br /> 389/7828080
+        </p>
+script:
+    it: Copione
+send-copy-to:
+    it: >
+        Una volta eseguito il bonifico si prega di inviarne copia, con relativo numero CRO, via e-Mail<br> a 
+    en: >
+        Send an e-Mail with the receipt of payment to 
+shipping:
+    it: "spedizione"
+    en: "shipping"
+short_version:
+    en: Reduced version (1 hour)
+    de: Verkürzte Version (1 Stunde)
+    en: Standard prize
+    de: Standardpreis
+standard_prize:
+    it: Intero
+    it: Spettacolo in versione ridotta (1 ora)
+stefano:
+    de: "Stefano Natale"
+    en: "Stefano Natale"
+    it: "Stefano Natale"
+stefano-par1:
+    it: |
+       Compositore, musicista ed arrangiatore degli spettacoli e dei musicals di Carlo Tedeschi. Realizza sigle e colonne sonore di programmi e documentari per le televisioni nazionali. Scrive e realizza il brano The way of life, interpretato da Billy Preston e Sam Moore.
+       
+       È cooautore della colonna sonora del film Che meraviglia, amici! Realizza la colonna sonora del film-documentario di Leo Amici La verità di un ragazzo.
+       
+       Conduce e dirige la Ralac Group Television, casa di produzione e post-produzione audio e video, con la quale realizza programmi sportivi e culturali per le televisioni nazionali. Realizza il filmato del musical Chiara di Dio girato nell’eccezionale cornice del monastero di San Damiano in Assisi in occasione del 750° anniversario della morte di Santa Chiara e del musical Un fremito d’ali - La vita di Padre Pio vista dagli angeli.
+       
+       Realizza l’archivio audio e video della Fondazione Leo Amici.&nbsp;<br>Affianca Carlo Tedeschi sia nelle sue iniziative umanitarie che nella produzione artistica. 
+    en: |
+        Composer, musician and arranger of Carlo Tedeschi’s musicals and performances.
+        
+        He produced theme songs and soundtracks of various programs and documentaries for the national televisions. He was the author of: The way of life performed by Billy Preston and Sam Moore.
+        
+        He was co-author of the soundtrack movie What a wonder, friends! Stefano produced the soundtrack for the documentary film by Leo Amici: The true of a young man.
+        
+        Stefano, manager of the Ralac Group Television (an audio video production and post-production), realized cultural and sport programs for the national televisions. He produced the video of the musical “Clare of God” shot in the exceptional framework of St. Damiano Convent in Assisi on the occasion of the 750° anniversary of Saint Clare death. He also realised the video of “A Flutter of Wings” – the life of Father Pio as seen by the Angels.
+        
+        He put in place the audio and video archive of the Leo Amici Foundation. He has been collaborating with Carlo Tedeschi both in his humanitarian and artistic initiatives.
+        <p>Films: leading actor of the documentary film “The True of a young man” by Leo Amici. In the 2007 summer, the Commision of the Royal Academy Dance of London, offered him the job as teacher of the jazz dance specialization course in Fondo Valle di Non (Trentino Alto Adige region)
+    de: |
+        Komponist, Musiker und Arrangeur der Shows und Musicals von Carlo Tedeschi. Er produziert Titelmusik und Soundtracks für Projekte und Dokumentationen des nationalen Fernsehens. Schreibt und gestaltet das Musikstück "the way of life", für Billy Preston und Sam Moore.
+
+        Er ist Koautor der Filmmusik des Films "Che meravigia, amici!". Er verfasst die Filmmusik für Leo Amicis  Dokumentarfilm "La verità di un ragazzo"(die Wahrheit über einen Jungen).
+
+        Betreibt und leitet die Ralac Group Television, Produktions- und Postproduktionsstudio für Audio und Video, in der er Sport-und Kulturprogramme fürs nationale Fernsehen bearbeitet. Er produziert die Filme über das Musical "Chiara di Dio", der im einzigartigen Ambiente des Kloster San Damiano in Assisi im Rahmen der 750 -Jahr-Feier des Todes der Hl. Klara gedreht wurde, sowie über das Musical "Un fremito d'ali"- Das Leben des Pater Pio aus der Sicht der Engel.
+
+        Er erstellt das Audio und Video-Archiv der Stiftung Fondazione Leo Amici.
+        
+        Er unterstützt Carlo Tedeschi in seinen humanitären Initiativen sowie in den künstlerischen Produktionen.
+
+steps:
+    it: Alcune tappe
+    de: Einige Etappen
+steps-par1:
+    it: |
+        **Santa Maria degli Angeli - 2 agosto 2004**
+
+        
+        ...e così arriviamo al 2 Agosto a Santa Maria degli Angeli, quando ci troviamo di fronte ai quattromila giovani giunti fin lì per la marcia francescana. Il regista introduce lo spettacolo dicendo:
+        
+        “Questa sera vogliamo che i canti, le danze e soprattutto le parole di Francesco e di Chiara, possano arrivare a tutti voi affinché viviate il miracolo che abbiamo vissuto noi, nel realizzare questo spettacolo.
+        
+        La presenza di Francesco e di Chiara, la loro personalità! Sono certo che accadrà grazie alla prepotenza della loro passione! Accadrà perché in questa giornata del perdono, che tutti noi abbiamo chiesto, il cuore si è svuotato del male, ed è ricco e colmo della Sua grazia!”.
+
+        **"Chiara di Dio" per il CSI**
+        
+        Nelle giornate del 3-4-5 dicembre 2004 ad Assisi, presso Le Stuoie, si è tenuta la V Conferenza Nazionale del CSI (centro sportivo italiano). Prima dell’inizio della rappresentazione, Mons. Vittorio Peri ha voluto presentare la Compagnia Teatrale:
+        
+        “Questi ragazzi, prima di entrare in scena, pregano perché hanno l’esigenza di chiedere al Signore la Grazia di portare gioia a tutti gli spettatori attraverso la danza, il canto, la recitazione.
+        
+        La preghiera è il segreto della gioia di questi giovani, che traspare dai gesti, dai volti. I loro volti sono il messaggio più intenso che possiamo ricevere, volti illuminati dalla fede, dalla speranza, dall’amore!
+        
+        Nella sede del Lago di Monte Colombo ogni mattina pregano alle Lodi e di sera recitano il Santo Rosario ed i Vespri… Questo è il segreto di questa splendida Compagnia Teatrale, il segreto delle loro attività e voglio rilevare che, attraverso questi spettacoli, mantengono una serie di iniziative di carattere caritativo, cristiano, sociale di grande valore! Hanno costruito case di accoglienza per anziani e bambini abbandonati. Sostengono missioni, costruiscono un monastero per le Clarisse in Africa, stanno per costruire una Chiesa nuova nella loro sede. Tutto ciò nasce da profonda preghiera e spiritualità. ...
+        
+        ... Abbiamo assaggiato un pezzo di Paradiso. Il Paradiso è gioia degli occhi, del cuore e della mente. Ed è tutto ciò che di più bello possiamo sperimentare. Questi amici della Compagnia Teatrale ci hanno regalato uno spicchio, una porzione, una scheggia della vita celeste nella Gerusalemme nuova.”
+    de: |
+        **Santa Maria degli Angeli - 2 August 2004**
+
+        …und als  wir am 2. August in Santa Maria degli Angeli angekommen sind, fanden wir uns vor viertausend Jugendlichen wieder, die sich für den franziskanischen Marsch dort eingefunden hatten. Der Regisseur stellt das Musical mit folgenden Worten vor:
+        
+        „Wir möchten, dass heute Abend unsere Lieder, der Tanz, aber hauptsächlich die Worte von Franziskus und Klara so bei euch ankommen, dass auch ihr genauso wie wir beim Einüben des Stückes das Wunder der Anwesenheit der Persönlichkeiten von Franziskus und Klara erleben könnt. Ihre Leidenschaft war so heftig, dass ich mir sicher bin, dass es passieren wird! Es wird passieren weil  am heutigen Tag der Vergebung, um die wir alle gebeten haben, sich unsere Herzen allem Bösen entledigt haben, und diese nun vom Reichtum Seiner Gnade erfüllt sind!"
+
+        **"Chiara di Dio" für den CSI**
+        
+        Vom 3. bis 5. Dezember 2004 wurde im Hotel "Le Stuoie" in Assisi die 5. Internationale Konferenz des CSI (centro sportivo italiano) abgehalten. Vor Beginn der Vorstellung war es der Wusch von Mons. Vittorio Peri, das Theaterensemble vorzustellen:
+        
+        "Diese Jugendlichen beten vor jedem Auftritt, weil sie die Notwendigkeit verspüren, Gott um die Gnade zu bitten, allen Zuschauern durch ihren Tanz, ihr Singen und ihre Rezitation Freude bringen zu können.
+
+        Das Gebet ist das Geheimnis der Freude dieser Jugendlichen, die durch ihre Gesten und Ihre Gesichter zum Ausdruck kommt. Ihre Gesichter sind die eindringlichste Botschaft, die wir erhalten können, Gesichter erhellt von Glauben, Hoffnung und Liebe.
+        
+        An ihrem Sitz am "Lago di Montecolombo" beten sie jeden Morgen die Laudes, und am Abend den Rosenkranz und die Vesper.... Das ist das Geheimnis dieses wunderbaren Theater-Ensembles, das Geheimnis ihres Tuns und ich möchte auch nicht verschweigen, dass sie mit Hilfe dieser Theateraufführungen eine ganze Reihe von wertvollen caritativen, christlichen und sozialen Initiativen unterstützen! Sie haben Einrichtungen zur Betreuung älterer Menschen und verlassener Kinder geschaffen. Sie unterstützen Missionen, den Bau eines Kloster für Klarissinnen in Afrika und sie sind dabei, eine neue Kirche an ihrem Sitz zu errichten. All das wächst aus tiefem Gebet und tiefer Spiritualität....
+        
+        Wir haben ein kleines Stück Paradies erleben können. Das Paradies ist Freude für die Augen, für das Herz und für den Geist. Es ist das Schönste, was wir erleben können. Diese Freunde des Theater-Ensembles haben uns ein Stück, einen Anteil, einen Splitter himmlischen Lebens im neuen Jerusalem geschenkt."
+
+
+testimonials:
+    it: Lettere e testimonianze
+    en: Letters and testimonials
+tickets-par1:
+    it: >
+        E' possibile effettuare la prenotazione chiamando al numero 075 815381 oppure tramite mail ad <a href="mailto:info@chiaradidio.it">info(at)chiaradidio.it</a>
+    en: >
+        It is possible to make a reservation calling phone no 0039 075 815381 or via mail to <a href="mailto:info@chiaradidio.it">info(at)chiaradidio.it</a>
+    de: >
+        Reservierungen sind möglich über Telefon 0039 075 815381 oder E-Mail an <a href="mailto:info@chiaradidio.it">info(at)chiaradidio.it</a>
+tickets-par2:
+    it: >
+        Il botteghino del Teatro Metastasio è aperto tutti i giorni dalle 9:00 alle 20:00 dove è possibile acquistare i biglietti.
+    en: >
+        You can buy your tickets at the ticket shop of Teatro Metastasio, which is is open every day from 9 pm to 8 am.
+    de: >
+        Tickets können am Verkaufsschalter des Teatro Metastasio, geöffnet täglich von 9 bis 20 Uhr, gekauft werden.
+title:
+    it: Chiara di Dio
+    en: Chiara di Dio
+    de: Chiara di Dio
+tickets:
+    it: Biglietti
+    en: Tickets
+    de: Tickets
+top:
+    it: Inizio pagina
+    en: Back to top
+    de: Zurück zum Anfang
+total:
+    it: "totale"
+    en: "total"
+tour:
+    it: Tournée
+    en: Tour
+    de: Tournee
+tour-par1:
+    it: >
+        <p>Tourneè 2014 - 2015 in allestimento</p>
+        <p>se desiderate portare il musical "Chiara di Dio" nella vostra città contattateci.</p>
+    en: >
+        <p>Tour 2014 - 2015 is in preparation</p>
+    de: >
+        <p>Tournee 2016 - 2015 ist in Vorbereitung</p>
+video:
+    it: Video
+    en: Video
+    de: Video
+why:
+    it: Perché Chiara
+    en: Why Chiara
+    de: Warum Chiara
+why-par1:
+    it: |
+        Nel settembre scorso l’OFS (Ordine Francescano Secolare), tenne un convegno al Teatro L. Amici del Lago di Monte Colombo, luogo di pace, amore e fratellanza. In quell’occasione la figura di Francesco entrò prepotentemente nella mia vita e subito dopo nel musical “Un Vagito nella notte”, il presepe vivente presentato anche in eurovisione durante la Messa del Santo Padre il 24 Dicembre 2003. Francesco è entrato in questo spettacolo con la forza della sua personalità, del suo carisma, ma anche come artista e giullare. Dopo di lui, inevitabilmente, Chiara, la pianticella di Francesco (così lei si definiva): non potevo che scrivere anche di lei e raccontarne la personalità.
+    en: |
+        September 2003: the OFS (Franciscan Secular Order), held a meeting at the Leo Amici Theatre - Lago di Monte Colombo, place of peace, love and brotherliness. On this occasion, the figure of Francesco entered overwhelmingly into my life and immediately after the musical ‘Un Vagito nella notte’ (a baby’s wail in the night), the live nativity presented also on Eurovision during the Mass by the Holy Father on 24th December 2003. Francesco enters this show with the strength of his personality, with his charisma, but also as an artist and a minstrel. After him, Chiara, Francesco’s little flower (this is how she used to define herself); I could but only write also about her and tell you of her personality.
+    de: |
+        Im September 2003 veranstaltete der OFS (Ordine Francescano Secolare - der Dritte Orden), eine Tagung im Theater L. Amici am Lago di Monte Colombo - Ort des Friedens, der Liebe und der Brüderlichkeit. Dabei begann der hl. Franziskus, eine wichtige Rolle in meinem Leben zu spielen, was sich unmittelbar auf das Musical „Un vagito nella notte“ - die lebendige Krippe - auswirkte, welches im Dezember 2003 während der Messe des hl. Vaters in europaweiter Ausstrahlung aufgeführt wurde. Franziskus zog mit der Kraft seiner Persönlichkeit, seinem Charisma, aber auch als Künstler und Narr in dieses Musical ein. Und mit Ihm unausweichlich Klara, Franziskus’ „kleine Pflanze“ (als solche bezeichnete sie sich): ich konnte nicht anders, als auch über sie zu schreiben und von ihrer Persönlichkeit zu erzählen.
+why-par2:
+    it: |
+        In scena un vecchio avrà il compito di spiegare l’esigenza di dedicare uno spettacolo a Santa Chiara.Si tratta di una figura bellissima, fuori dal tempo e senza età e del quale solo alla fine dello spettacolo svelerò il mistero. Proprio questa figura, usando le parole del nostro Papa Giovanni Paolo II, spiegherà che “è veramente difficile disgiungere questi due nomi, Francesco e Chiara”. Li definisce “fenomeni”, “leggende”. Spiega che “c’è tra loro qualcosa di così profondo che&nbsp;non può essere capito se non attraverso i criteri della spiritualità francescana, cristiana, evangelica”. Ma li presenta anche come una realtà fatta di materia, perché “erano persone, erano corpi”. “Di loro - continua il Santo Padre - resta il modo con cui Francesco vedeva sua sorella, il modo in cui egli sposò Cristo. Vedeva se stesso a immagine di lei, sposa di Cristo, sposa mistica con cui andava formando la sua Santità”.
+        
+        Prima di svelare il mistero della figura del vecchio, alla fine dello spettacolo, risuonano ancora le parole del Papa che chiama “leggenda divina quella di Chiara accanto a Francesco”, ma aggiunge:  
+        “È necessario riscoprire nella nostra epoca la figura di Santa Chiara, riscoprire quel carisma, quella vocazione, riscoprire la leggenda divina di Francesco e Chiara, perché è necessario per la vita della Chiesa”. 
+
+        Lo spettacolo inizia con Chiara morente, intorno a lei le consorelle piangenti. Entra suor Agnese, sorella anche di carne, che proviene da un altro convento; suor Filippa, suor Amata e le altre si prodigano una dopo l’altra a raccontare della grandezza e della bellezza di questa donna e leggono il suo testamento. Chiara abbraccia la sorella Agnes e e le dice di non piangere perché tra poco anche lei arriverà al Signore e, sfinita, chiede “una cerasa”, una ciliegia. Lei, abituata ai digiuni, ad una vita di penitenza, sorprendentemente chiede, con una umanità straordinaria, qualcosa per sé. Agnese manda in tutta fretta una sorella nel chiostro, per disperazione più che per convinzione, perché è agosto e non è stagione di ciliegie. Nei pochi minuti che separano questa richiesta di Chiara dal ritorno della consorella, che arriverà miracolosamente con la ciliegia tra le dita, scorrono il primo ed il secondo tempo dello spettacolo e gli avvenimenti più toccanti e straordinari della sua vita: riaffiorano le immagini della madre, di se stessa a sei, a nove e a quindici anni, dell’incontro con Francesco, la fuga da casa, il taglio dei capelli per la sua consacrazione al Signore e la sua obbedienza a Francesco.
+    en: |
+        On the stage, an old man will explain the need to dedicate a performance to her: he is a wonderful, timeless figure whose mystery will only be revealed at the end of the spectacle. This very figure will explain, using the words of our Pope John Paul II, that it is really difficult to separate these two names, Francesco and Chiara. He defines them as ‘phenomena’, ‘legends’. He explains that, between them, something deep lives, that can only be understood through the criteria of the Franciscan, Christian and Evangelical spirituality. But he introduces them also as physical realities because they were persons, bodies “About them – continues the Pope – we have the way Francesco saw his sister, the way in which he embraced Christ. He saw himself as an image of her, bride of Christ, mystical bride with whom he was forming his Sanctity”
+        
+        Before revealing the mystery of the old man’s figure, at the end of the spectacle, the words of the Pope resound again, and they call it, “divine legend” Chiara beside Francesco but he adds: ‘It is necessary to rediscover the figure of Saint Chiara in our time,, to rediscover that charisma, vocation, to rediscover the divine legend of Francesco and Chiara, because it is necessary for the life of the Church’. The show begins with Chiara dying, and around her, are the crying nuns.  Sister Agnese , who is also her blood sister and comes from another convent, enters the scene. Sister Filippa, Sister Amata and the others try their best, one after the other, in telling of the greatness and internal beauty of this woman and read her testament; Chiara embraces her sister Agnese and tells her not to cry because she will soon come to God too, and, exhausted, asks for ‘a cerasa’, a cherry. She, used to fasting and a life of penitence, surprisingly and with an extraordinary humanity, asks for something for herself. Agnese sends a sister into the cloister, in a great hurry, more out of desperation than of conviction, because it is August and cherries are not in season. In the few minutes that separate Chiara’s request from the return of the fellow nun, that will miraculously arrive with a cherry in her hands, the first and second part of the show flow, together with the most touching and extraordinary events of her life: the images of her mother, of herself at six, nine and at fifteen years of age, of her meeting with Francesco, the escape from home, her hair cut for her consecration to the Lord and her obedience to Francesco.
+    de: |
+        Auf der Bühne wird ein alter Mann die Aufgabe haben, zu erklären, warum es notwendig ist, der Heiligen Klara ein Musical zu widmen. Bei ihm handelt es sich um eine wunderbare zeit- und alterslose Figur, deren Geheimnis ich erst am Ende der Aufführung lüften werde. Es ist auch der, der mit den Worten unseres Papstes Johannes Paul II erklären wird, dass es wirklich „sehr schwierig ist, die beiden Namen Franziskus und Klara getrennt zu betrachten“. Er definiert sie als „Phänomene“ und „Legenden“. Er erklärt, dass „zwischen den Beiden etwas so Tiefes besteht, das nur im Verständnis der franziskanischen, christlichen und der Spiritualität der Evangelien erfasst und begriffen werden kann“. Er stellt sie aber auch als etwas Physisches dar, denn sie waren „Personen, sie waren Körper“. „Von Ihnen - fährt der Heilige Vater fort - bleibt uns die Art und Weise, wie Franziskus seine Schwester sah, die Art und Weise, wie er sich mit Christus vermählte. Er sah sich selbst nach ihrem Ebenbild, Braut Christi, eine mystische Braut, mit der zusammen er seine Heiligkeit formte.
+
+        Am Ende der Vorstellung, bevor ich das Geheimnis des alten Mannes lüfte, werden nochmals die Worte des Papstes anklingen, die sagen: „es ist eine göttliche Legende, die von ‚Klara an der Seite von Franziskus‘“, aber fügt hinzu: „Es ist wichtig, in unserer Epoche die Person der Heiligen Klara wieder zu entdecken, ihr Charisma, ihre Berufung, denn die göttliche Legende von Franziskus und Klara wieder zu entdecken, ist notwendig für unsere Kirche“. 
+
+        Das erste Bühnenbild zeigt die sterbende Klara umringt von weinenden Mitschwestern. Sr. Agnes, auch leibliche Schwester Klaras, die von einem anderen Kloster zurückgekommen war, tritt auf; Sr. Filippa, Sr.Amata und die anderen erzählen nacheinander von der Größe und Schönheit dieser Frau und lesen ihr Testament vor. Klara umarmt ihre Schwester Agnes und sagt ihr, sie solle nicht weinen, denn in Kürze würde auch sie beim Herrgott sein und, völlig erschöpft, fragt sie nach „una cerasa“ - einer Kirsche. Sie, die ans Fasten und ein Leben im Verzicht gewöhnt ist, fragt völlig überraschend und allzu menschlich, was bei ihr ungewöhnlich war, nach etwas für sich selbst. Agnes, in aller Eile und mehr aus Verzweiflung als aus Überzeugung, denn es ist August und keine Saison für Kirschen, schickt deshalb eine Schwester in den Klosterhof. In den wenigen Minuten, die von der Äußerung des Wunsches Klaras bis zur Rückkehr der Mitschwester, die wundersamer Weise mit einer Kirsche in den Händen zurückkommt, vergehen, spielen sich der erste und der zweite Teil des Stückes ab, in denen die außergewöhnlichsten und berührendsten Geschehnisse aus Klaras Leben vorüberziehen. Es tauchen Bilder auf; von der Mutter, von ihr selbst im Alter von sechs, neun und fünfzehn Jahren, vom Zusammentreffen mit Franziskus, von der Flucht aus dem Elternhaus und vom Schneiden ihrer Haare für den Weiheakt zu Gott und Ihrem Gehorsam zu Franziskus.
+why-par3:
+    it: |
+        Infatti Chiara non si converte attraverso il Cristo ma, straordinariamente, si consacra al Signore attraverso quel fratello Santo che lei eleggerà come padre alla sua morte.  
+
+        Rivedrà se stessa come madre badessa nel lavare i piedi alle sue consorelle, negli strappi e nella lacerazione della sua crescita spirituale, nel suo desiderio di essere riconosciuta nel diritto alla povertà totale, nell’attesa della bolla papale che avvalli questo diritto per la sua regola che lei, prima donna nella storia, ha redatto.
+        
+        La bolla non arriverà se non il giorno prima della sua morte.
+    en: |
+        In fact Chiara does not consecrate herself to the Lord through Christ, but, extraordinarily, through that Saintly brother she elects as her spiritual father at his death. She sees herself again as mother superior while washing the feet of her fellow sisters, the tears and lacerations of her spiritual growth, her desire to be granted in her right to total poverty, the wait for the papal bull availing her right that she, first woman in history, has written.
+        
+        The papal bull will only arrive one hour before she dies.
+    de: |
+        In der Tat konvertiert Klara nicht durch Christus, aber sie weiht sich Gott durch diesen heiligen Bruder, den sie im Moment seines Todes zum Vater erwählen wird, in einzigartiger Weise.
+
+        Sie sieht sich als Äbtissin wieder, die ihren Mitschwestern die Füße wäscht, sieht die Verletzungen und Wunden ihres spirituellen Wachstums, sieht sich in ihrem sehnlichsten Wunsch der Anerkennung im Recht auf die absolute Armut, in ihrem sehsüchtiges Erwarten der päpstlichen Bulle als Bestätigung der Ordensregel, die sie als erste Frau in der Geschichte verfasst hat.
+        
+        Die Bulle wird sie erst am Tag vor ihrem Tode erreichen.
+why-par4:
+    it: |
+        Rivivrà le lezioni di spiritualità e la morte di Francesco, rivedrà se stessa fermare la violenza e la barbarie dei saraceni con l’ostensorio contenente l’Ostia consacrata. Rivedrà la notte di Natale allorchè, rimasta sola nel dormitorio di San Damiano dove ha vissuto tutta la sua vita, e superate le tentazioni del demonio apparsole con le fattezze di un bambino, il Signore la metterà miracolosamente in contatto con la Basilica di San Francesco affinchè possa seguire la celebrazione. 
+        Nel momento della morte di Chiara, per la certezza personale che ho della vera vita dopo la morte e per il rispetto della fede e della santità di questa donna straordinaria, ho osato rappresentarne l’anima che esce dal corpo e che corre incontro a Dio. Ed è proprio con questa immagine che lo spettacolo si conclude, nel puro misticismo di Chiara e nella sua totale contemplazione al distacco definitivo dalla vita terrena, finalmente giunta ad un epilogo di realtà eterna.
+        <p class="text-right">Carlo Tedeschi</p>
+    en: |
+        She relives the lessons of spirituality and the death of Francesco, she sees herself stop the violence and the barbarity of the Saracen showing them the Consecrated Host. She sees that Christmas night, again when she was left alone in the dormitory of San Damiano where she had lived her whole life. After she had resisted the temptations of the devil who had appeared in the guise of a child, the Lord miraculously contacted her with the “Basilica di San Francesco” so that she could take part in the celebration.
+        
+        For the personal certainty that I have of the real life after our death, and out of respect for the faith and Sanctity of this extraordinary woman, I dared represent the soul leaving the body and running up to God at her death. And it is with this very image that the spectacle concludes, with Chiara’s pure mysticism and her contemplation of her definitive separation from earthly life, that has finally come to an epilogue of eternal reality.    
+        <p class="text-right">Carlo Tedeschi</p>
+    de: |
+        Sie durchlebt nochmals die Lehren der Spiritualität, Franziskus’ Tod und wie sie die Gewalttaten und  Barbareien der Sarazenen mit der geweihten Hostie in der Monstranz zum Erliegen bringt. Sie sieht nochmals jene heilige Nacht, alleine im Schlafsaal in San Damiano, wo sie ihr ganzes Leben verbracht und die Versuchungen des Dämons überwunden hat, der ihr mit den Gesichtszügen eines Kindes erschien, in jener Nacht, in der der Herr sie auf wundersame Weise in Kontakt mit der Basilika des Heiligen Franziskus bringt, so dass sie die gesamte Messfeier miterleben kann.
+
+        Aus der meiner persönlichen Überzeugung, die ich über das Leben nach dem Tod habe, heraus und aus Respekt für den Glauben und die Heiligkeit dieser außergewöhnlichen Frau habe ich es gewagt ,  die Seele Klaras, die aus ihrem Körper heraus, Gott entgegen läuft, darzustellen. Genau in diesem Moment und mit diesem Bild endet das Musical, in der reinen Mystik Klaras und im Moment der umfassenden Kontemplation der Trennung vom irdischen Leben, was nichts anderes ist, als die Ankunft im ewigen Sein.
+        <p class="text-right">Carlo Tedeschi</p>

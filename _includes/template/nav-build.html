@@ -1,0 +1,20 @@
+{% for nav in include.nav %}
+    {% if site.data.locales.[nav.link].[page-language] %}
+        <li {% if nav.link == name-base %}
+                 class="active"
+               {% endif %}>
+            {% include_relative _includes/template/nav-build-link.html base-name=nav.link language=page-language %}
+                <a href="{%if include.sub%}#{{nav.link}}{%else%}{{link}}.html{%endif%}">
+                {{site.data.locales.[nav.link].[page-language]}}</a>
+        </li>
+    {% endif %}
+    {%if nav.link=="facebook"%}
+        <li>
+            <a style="padding:10px" target="_blank" title="follow me on facebook" 
+                href="http://www.facebook.com/chiaradidiomusical">
+                <img alt="follow us on facebook" 
+                    src="images/facebook.png" border=0></a>
+
+        </li>
+    {% endif %}
+{% endfor %}

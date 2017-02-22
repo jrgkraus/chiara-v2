@@ -1,0 +1,10 @@
+- key: it
+  text: Italiano
+  icon: flag-it.jpg
+- key: en
+  text: English
+  icon: flag-en.jpg
+- key: de
+  text: Deutsch
+  icon: flag-de.jpg
+    

@@ -1,0 +1,30 @@
+<script type="text/javascript">
+    /*!
+       * Create an array of word objects, each representing a word in the cloud
+       */
+    var word_array = [
+        {% for link in site.data.links %}
+        {text: "{{link.title}}", weight: {{link.weight}}, link: "{{link.link}}" },
+        {%endfor%}
+        // ...as many words as you want
+    ];
+
+    $(function() {
+        // When DOM is ready, select the container element and call the jQCloud method, passing the array of words as the first argument.
+        $("#link-cloud").jQCloud(word_array);
+    });
+</script>
+<div class="chiara-background chiara-fullheight chiara-background-1" 
+     id="chiara-1">
+    <div class="container">
+        <div class="col-xs-12">
+            <div class="chiara-textcontainer well">
+                <h2>Links</h2>
+                <div id="link-cloud" style="width: 100%; height: 60vh;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- You should explicitly specify the dimensions of the container element -->
+

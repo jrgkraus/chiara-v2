@@ -1,0 +1,40 @@
+<div class="col-xs-12">
+    <div class="chiara-textcontainer well">
+        <h2 class="text-center">{{ site.data.locales.press_review.[page-language]}}</h2>
+        <table class="table">
+            <tr>
+                <th>
+                    Data
+                </th>
+                <th>
+                    Articolo
+                </th>
+                <th>
+                    PDF/Video
+                </th>
+            </tr>
+            {% for press in site.data.press %}
+            <tr>
+                <td>
+                    {{press.date}}
+                </td>
+                <td>
+                    {{site.data.locales.[press.key].[page-language]}}
+                </td>
+                <td>
+                    {% if press.file %}
+                    <a href="downloads/{{name-base}}/{{press.file}}">download</a>
+                    {% endif %}
+                    {% if press.video %}
+                    <div align="center" class="embed-responsive embed-responsive-16by9">
+                        <video class="embed-responsive-item" controls >
+                            <source src="{{press.video}}" type="video/mp4">
+                        </video>
+                    </div> 
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</div>

@@ -1,0 +1,32 @@
+---
+- title: Piccolo Paese del Lago
+  link: http://www.lagodimontecolombo.it
+  weight: 10
+- title: Hotel Villa Leri
+  link: http://www.villaleri.it
+  weight: 6
+- title: Leo Amici
+  link: http://www.leoamici.it
+  weight: 8
+- title: Borgo della Speranza
+  link: http://www.borgodellasperanza.it
+  weight: 7
+- title: Teatro Leo Amici
+  link: http://www.teatroleoamici.it
+  weight: 6
+- title: Patto di luce
+  link: http://www.pattodiluce.it
+  image: pattodiluce2.jpg
+  weight: 5
+- title: "Un fremito d'ali"
+  link: http://www.unfremitodali.it
+  weight: 4
+- title: "Gabriele dell'addolorata"
+  link: http://www.sangabrielemusical.it
+  weight: 3
+- title: Fondazione Leo Amici
+  link: http://www.fondazioneleoamici.org
+  weight: 2
+- title: Carlo Tedeschi
+  link: http://www.carlotedeschi.it
+  weight: 8

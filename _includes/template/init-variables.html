@@ -1,0 +1,22 @@
+{% capture name-base %}{{ page.name | remove_first: ".html" | remove_first: ".md"}}{% endcapture %}
+{% assign langu-array = name-base | split: "-" %}
+{% assign page-language = site.language-default %}
+{% for langu in site.data.languages %}
+	{% if langu-array.last == langu.key %}
+		{% assign page-language = langu.key %}
+	{% endif %}
+{% endfor %}
+{% if page-language != site.language-default %}
+	{% capture langu-suffix %}-{{page-language}}{% endcapture %}
+	{% capture name-base %}{{ name-base | remove_first: langu-suffix }}{% endcapture %}
+{% endif %}
+{% for navs in site.data.navigation.main %}
+    {% if navs.link == name-base %}
+        {% assign nav = navs %}
+    {% endif %}
+{% endfor %}
+{% for navs in site.data.navigation.right %}
+    {% if navs.link == name-base %}
+        {% assign nav = navs %}
+    {% endif %}
+{% endfor %}

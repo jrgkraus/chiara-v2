@@ -1,0 +1,93 @@
+<div class="col-sm-offset-2 col-sm-8 well well-main">
+    <h2>CD - DVD</h2>
+    <p>
+        {{ site.data.locales.disks-par1.[page-language]}}
+    </p>
+    <p>
+        {{ site.data.locales.order-send-mail.[page-language]}}
+        <a href="mailto:info@chiaradidio.it">
+            info@chiaradidio.it
+        </a>
+    </p>
+    {{ site.data.locales.disks-par2.[page-language]}}
+    <p>
+    </p>
+    <table class="table" style="margin: 0px auto;" border="0">
+        <tbody>
+            <tr>
+                <td>
+                    <p>{{ site.data.locales.image.[page-language]}}</p>
+                </td>
+                <td>
+                    <p>{{ site.data.locales.product.[page-language]}}</p>
+                </td>
+                <td>&nbsp;</td>
+                <td>
+                    <p class="text-right">
+                        {{ site.data.locales.payment-1.[page-language]}}
+                    </p>
+                </td>
+                <td>
+                    <p class="text-right">
+                        {{ site.data.locales.payment-2.[page-language]}}
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                {%for product in site.data.products %}
+                <td>
+                    <p><img src="images/disks/{{product.product}}.png" border="0" alt="CD" width="140" style="border-style: none; border-color: initial; border-width: 0px;"></p>
+                    <p><a href="{{product.product}}.html" title="artinfocd">
+                        {{ site.data.locales.details.[page-language]}}
+                        </a></p>
+                </td>
+                <td>
+                    <p>
+                        1 {{ site.data.locales.[product.product].[page-language]}}
+                    </p>
+                </td>
+                <td>
+                    <p><em>
+                        {{ site.data.locales.price.[page-language]}}
+                        </em><br />
+                        <em>
+                            {{ site.data.locales.shipping.[page-language]}}
+                        </em><br />
+                        <strong>
+                            {{ site.data.locales.total.[page-language]}}
+                        </strong></p>
+                </td>
+                <td>
+                    <p class="text-right">
+                        {{product.var1.price.[page-language]}}<br>
+                        {{product.var1.shipping.[page-language]}}<br>
+                        <strong>{{product.var1.total.[page-language]}}</strong></p>
+                </td>
+                <td>
+                    <p class="text-right">
+                        {{product.var2.price.[page-language]}}<br>
+                        {{product.var2.shipping.[page-language]}}<br>
+                        <strong>{{product.var2.total.[page-language]}}</strong></p>
+                </td>
+            </tr>
+            {%endfor%}
+        </tbody>
+    </table>
+    <p><br>
+        <strong>
+            {{ site.data.locales.payment-to.[page-language]}}
+        </strong>
+    </p>
+    <p>
+        Associazione DARE<br> Via Resistenza 1<br /> 47833 Morciano di Romagna (RN)
+    </p>
+    {{ site.data.locales.bank-info.[page-language]}}
+    <br><br>
+    <p>
+        {{ site.data.locales.send-copy-to.[page-language]}}
+        <a href="mailto:info@chiaradidio.it">info@chiaradidio.it</a>
+    </p>
+    <p>
+        {{ site.data.locales.prices-from-italy.[page-language]}}
+    </p>
+</div>

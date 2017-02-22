@@ -1,0 +1,17 @@
+<div class="col-sm-offset-2 col-sm-8">
+        <div class="jumbotron well chiara-textcontainer">
+        <h3 class="text-center">{{ site.data.locales.index-title.[page-language] }}</h3>
+        <p class="text-center lead">
+            {{ site.data.locales.on-stage-at.[page-language]}}
+            <br />
+            <br />
+            <a href="http://www.teatrometastasio.it"><strong>
+                Teatro Metastasio Assisi
+                </strong></a>
+            <br />
+            <br />
+            {% include_relative _includes/template/nav-build-link.html base-name="schedule" language=page-language %}
+            <a href="{{link}}.html">{{ site.data.locales.schedule.[page-language] }}</a>
+        </p>
+    </div>
+</div>

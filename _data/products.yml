@@ -1,0 +1,64 @@
+-   product: cdaudio
+    var1:
+        price: 
+            it: 16.00 €
+            en: 16.00 €
+        shipping: 
+            it: 13.00 €
+            en: 9.50 €
+        total: 
+            it: 29.00 €
+            en: 25.50 €
+    var2:
+        price: 
+            it: 16.00 €
+            en: 16.00 €
+        shipping: 
+            it: 8.00 €
+            en: 13.00 €
+        total: 
+            it: 23.00 €
+            en: 29.00 €
+-   product: dvd
+    var1:
+        price: 
+            it: 20.00 €
+            en: 20.00 €
+        shipping: 
+            it: 13.00 €
+            en: 8.00 €
+        total: 
+            it: 33.00 €
+            en: 28.00 €
+    var2:
+        price: 
+            it: 20.00 €
+            en: 20.00 €
+        shipping: 
+            it: 7.00 €
+            en: 10.00 €
+        total: 
+            it: 27.00 €
+            en: 30.00 €
+-   product: cd_dvd
+    var1:
+        price: 
+            it: 36.00 €
+            en: 36.00 €
+        shipping: 
+            it: 13.00 €
+            en: 10.60 €
+        total: 
+            it: 49.00 €
+            en: 46.60 €
+    var2:
+        price: 
+            it: 36.00 €
+            en: 36.00 €
+        shipping: 
+            it: 7.00 €
+            en: 13.90 €
+        total: 
+            it: 43.00 €
+            en: 49.90 €
+

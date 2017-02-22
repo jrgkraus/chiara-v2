@@ -1,0 +1,7 @@
+{% assign link_body = include.base-name %}
+{% if include.language != site.language-default %}
+	{% assign link = link_body | append: "-" %}
+	{% assign link = link | append: include.language %}
+{% else %}
+	{% assign link = link_body %}
+{% endif %}

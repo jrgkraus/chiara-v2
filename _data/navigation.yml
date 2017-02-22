@@ -1,0 +1,43 @@
+main:
+-   key: index
+    link: index
+    subnavs:
+        -   link: top
+            banner: banner-picture.png
+        -   link: gallery
+        -   link: video
+        -   link: facebook
+            weblink: http://www.facebook.com/chiaradidiomusical
+-   key: onstage
+    link: onstage
+    subnavs:
+        -   link: schedule
+        -   link: tickets
+        -   link: tour
+-   key: info
+    link: info
+    subnavs:
+        -   link: why
+        -   link: steps
+-   key: authors
+    link: authors
+    subnavs:
+        -   link: carlo   
+        -   link: stefano
+        -   link: andrea
+        -   link: gianluca
+-   key: material
+    link: materials
+    subnavs:
+        -   link: script
+        -   link: disks
+        -   link: press_comm
+        -   link: press_review
+-   key: letters
+    link: letters
+right:
+-   key: links
+    link: links
+-   key: contact
+    link: contact
+  

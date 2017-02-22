@@ -1,0 +1,24 @@
+<div class="chiara-background chiara-fullheight chiara-background-1" 
+     id="chiara-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="chiara-textcontainer well">
+                    <h2>{{site.data.locales.letters_and_testimonials.[page-language]}} </h2>
+                    {%for letter in site.data.locales.letters-list%}
+                        {%if letter.all%}
+                            {{letter.all.par | markdownify}}
+                            <p style="text-align: right"> {{letter.all.name}}</p>
+                            <hr>
+                        {%else%}
+                            {%if letter.[page-language].par%}
+                                {{letter.[page-language].par | markdownify}}
+                                <p style="text-align: right"> {{letter.[page-language].name}}</p>
+                                <hr>
+                            {%endif%}
+                        {%endif%}
+                    {%endfor%}
+                </div>
+            </div>
+        </div>
+    </div>

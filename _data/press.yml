@@ -1,0 +1,16 @@
+# Questo file contiene le voci della pagina "Rassegna Stampa/TV"
+# per ogni "key", ci vuole un inserimento in _data/locales.yml 
+# per il testo che deve apparire
+-   key: 2015-08-22-melissa-mattiussi
+    date: 22 Agosto 2015
+    file: 2015-08-22-melissa-mattiussi.pdf
+-   key: 2015-08-mess-sant-antonio
+    date: 1 Agosto 2015
+    file: 2015-08-mess-sant-antonio.pdf
+-   key: 2015-03-01-intervista-2
+    date: 1 Marzo 2015
+    video: http://www.associazionedare.it/movies/ChiaraIntervista2.mp4
+-   key: 2015-03-01-intervista-1
+    date: 1 Marzo 2015
+    video: http://www.associazionedare.it/movies/ChiaraIntervista1.mp4
+    

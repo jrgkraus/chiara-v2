@@ -1,0 +1,14 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">{{site.data.locales.his-work.[page-language]}}</h3>
+    </div>
+    <div class="panel-body">
+        <div class="container-fluid">
+            <div class="row">
+                {%for work in site.data.locales.carlo.works%} 
+                    {%include subpage-carlo-link.html work = work%} 
+                {%endfor%}
+            </div>
+        </div>
+    </div>
+</div>

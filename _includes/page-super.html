@@ -1,0 +1,22 @@
+{% include_relative _includes/template/init-variables.html %}
+{% assign subnavs-menu = nav.subnavs | reverse %}
+{% for subnav in nav.subnavs %}
+    {%if site.data.locales.[subnav.link].[page-language] %}
+        {%if subnav.weblink%}
+        {%else%}
+        <div class="chiara-background 
+            {%if forloop.index==1%}double{%endif%}
+            chiara-fullheight chiara-background-{{forloop.index}}" 
+            id="{{subnav.link}}">
+            <div class="container">
+                {% if subnav.banner %}
+                    <img class="img-responsive img-rounded chiara-textcontainer chiara-shadow" src="images/{{subnav.banner}}" />
+                {% endif %}
+                <div class="row">
+                    {% include subpage-{{subnav.link}}.html %}
+                </div>
+            </div>
+        </div>
+        {%endif%}
+    {%endif%}
+{% endfor %}

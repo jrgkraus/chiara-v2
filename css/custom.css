@@ -1,0 +1,32 @@
+/*
+a { 
+    text-decoration: underline;
+    color: #604B38;}
+.nav a { 
+    text-decoration: none }
+.nav-tabs a { 
+    color: #604B38;
+    font-weight: 800; }
+.nav-tabs li { 
+    float:right; 
+    display:block}
+.alert p {
+    margin:0 }
+/* Navbar: */
+/*
+.navbar { 
+    margin-bottom: 0em; }
+.nav-tabs > li > a:hover {
+    color: black;
+    background-color: rgba(255,255,255,0.3);
+}*/
+.headroom {
+    will-change: transform;
+    transition: transform 200ms linear;
+}
+.headroom--pinned {
+    transform: translateY(0%);
+}
+.headroom--unpinned {
+    transform: translateY(-100%);
+}

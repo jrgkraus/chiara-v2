@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="row">
+        <div class="col-xs-8 col-xs-offset-2 well">
+            <h2 class="text-center">{{ site.data.locales.video.[page-language]}}</h2>
+            {% for video in site.data.videos %}
+            <iframe style="margin-bottom:1em" class="center-block" width="560" height="315"  src="{{video.link}}" frameborder="0" allowfullscreen></iframe>
+            {% endfor %}
+        </div>
+    </div>
+</div>

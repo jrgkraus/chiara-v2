@@ -1,0 +1,23 @@
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <a href="index.htm" onclick="return hs.htmlExpand(this)">
+        {%if include.work.link.[page-language]%}
+            {{include.work.link.[page-language]}}
+        {%else%}
+            {{include.work.title.[page-language]}}
+        {%endif%}
+    </a>
+    <div class="highslide-maincontent">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">{{include.work.title.[page-language]}}</h3>
+            </div>
+            <div class="panel-body">
+                {%if work.text.[page-language]%}
+                    {{include.work.text.[page-language] | markdownify}}
+                {%else%}
+                    {{include.work.text | markdownify}}
+                {%endif%}
+            </div>
+        </div>
+    </div>
+</div>

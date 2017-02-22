@@ -1,0 +1,23 @@
+<!--            navbar-fixed-top -->
+{% include_relative _includes/template/init-variables.html %}
+{% assign subnavs-menu = nav.subnavs | reverse %}
+<header class="headroom navbar navbar-default navbar-fixed-top
+            chiara-shadow">
+    <div class="container-fluid">
+        {% include_relative _includes/template/nav-toggle-button.html %}    
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+            {% include_relative _includes/template/nav-main.html %}    
+            {%if nav.subnavs %}
+                <div class="clearfix"></div>
+                <nav class="navbar navbar-secondary">
+                    <div class="container-fluid">
+                        <ul class="nav navbar-nav">
+                            {% include_relative _includes/template/nav-build.html nav = nav.subnavs sub=true %}
+                        </ul>                    
+                    </div>        
+                </nav>
+            {%endif%}
+        </div><!-- /.navbar-collapse -->
+    </div>
+</header>
